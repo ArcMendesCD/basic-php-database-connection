@@ -1,5 +1,5 @@
 # Tutorial básico de PHP
-## Cortesia da Santa Casa de Marilia
+## Cortesia
 
 [![N|Solid](https://alfheimsystems.com.br/assets/essentials/logo_large_hires.png)](https://intranetprd.santacasamarilia.com.br)
 
