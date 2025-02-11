@@ -50,9 +50,9 @@ if(isset($_POST['inserirUsuario'])){
 
         <input type="email" id="email" name="email" required><br><br>
 
-        <input type="submit" name="inserirUsuario" value="Submit">
+        <input type="submit" name="inserirUsuario" value="Submit"><br>
 
-        <a href="select.php">Retornar</a>
+        <a href="index.php">Retornar</a>
         </form>
     </div> 
 

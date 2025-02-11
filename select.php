@@ -76,7 +76,8 @@ foreach ($usuarios as $usuario) { // Nota-se que o primeiro valor é o nome da v
             }
             
             ?>
-        </select>
+        </select><br>
+        <a href="index.php">Voltar</a>
     </div> 
     
     <!-- Vamos fazer de uma forma diferente agora, vamos buscar informações de uma unica linha no banco e exibi-las sem fazer um loop na tela -->
